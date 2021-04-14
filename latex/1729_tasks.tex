@@ -95,10 +95,21 @@ If you're familiar with classical programming languages, then you can think of
 the CNOT as a very simple kind of \code{if-then} statement: \code{if} the
 control qubit is set, \code{then} NOT the target qubit. But while simple, it
 can be used as a building block to build up other, more complex kinds of
-conditional behavior.
+conditional behavior.\\
+There's a way of summing up all four of the equations above in a single
+equation. Suppose $x$ and $y$ are classical bits, i.e., 0 or 1. Then we can
+rewrite the equations above in a single equation as: $|x,y\rangle\rightarrow |x,y\oplus x\rangle$.
+Note the commas inserted to make this easier to read -- this is pretty common
+in working with multi-qubit states. \\
+The above equation makes clear that the CNOT leaves the control qubit $x$ alone,
+but flips the target qubit $y$ if $x$ is set to 1. Note that $\oplus$ is addition
+modulo 2, where $1 \oplus 1 = 0$, as we would expect from the fact that CNOT
+takes $|11\rangle$ to $|10\rangle$.\\
+That's all there is to the CNOT. It's really a very simple idea and quantum
+gate. Note that it of course acts linearly on superpositions of computational
+basis states, as we expect for a quantum gate.
 
-
-
+\Section{Part III: Universal Quantum Computing}
 
 
 
