@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.5)  4 MAY 2021 22:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.5)  14 APR 2021 21:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**1729_tasks.tex
-(./1729_tasks.tex
+**quantum_computer_1729.tex
+(./quantum_computer_1729.tex
 LaTeX2e <2020-10-01>
 L3 programming layer <2020-09-24> xparse <2020-03-03> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -110,8 +110,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count186
 \l__pdf_internal_box=\box48
-) (./1729_tasks.aux)
-\openout1 = `1729_tasks.aux'.
+) (./quantum_computer_1729.aux)
+\openout1 = `quantum_computer_1729.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -154,55 +154,45 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<./../pix//1.jpg, id=1, 193.32225pt x 22.28325pt>
-File: ./../pix//1.jpg Graphic file (type jpg)
-<use ./../pix//1.jpg>
-Package pdftex.def Info: ./../pix//1.jpg  used on input line 29.
+<./../../pix//1.jpg, id=1, 193.32225pt x 22.28325pt>
+File: ./../../pix//1.jpg Graphic file (type jpg)
+<use ./../../pix//1.jpg>
+Package pdftex.def Info: ./../../pix//1.jpg  used on input line 29.
 (pdftex.def)             Requested size: 170.71652pt x 19.67831pt.
-<./../pix//2.jpg, id=2, 249.3315pt x 55.407pt>
-File: ./../pix//2.jpg Graphic file (type jpg)
-<use ./../pix//2.jpg>
-Package pdftex.def Info: ./../pix//2.jpg  used on input line 45.
+<./../../pix//2.jpg, id=2, 249.3315pt x 55.407pt>
+File: ./../../pix//2.jpg Graphic file (type jpg)
+<use ./../../pix//2.jpg>
+Package pdftex.def Info: ./../../pix//2.jpg  used on input line 45.
 (pdftex.def)             Requested size: 170.71652pt x 37.93663pt.
-<./../pix//3.jpg, id=3, 193.32225pt x 60.225pt>
-File: ./../pix//3.jpg Graphic file (type jpg)
-<use ./../pix//3.jpg>
-Package pdftex.def Info: ./../pix//3.jpg  used on input line 61.
+<./../../pix//3.jpg, id=3, 193.32225pt x 60.225pt>
+File: ./../../pix//3.jpg Graphic file (type jpg)
+<use ./../../pix//3.jpg>
+Package pdftex.def Info: ./../../pix//3.jpg  used on input line 61.
 (pdftex.def)             Requested size: 170.71652pt x 53.1847pt.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./../pix//1.jpg> <./../pix//2.jpg>]
-<./../pix//4.jpg, id=19, 96.96225pt x 48.18pt>
-File: ./../pix//4.jpg Graphic file (type jpg)
-<use ./../pix//4.jpg>
-Package pdftex.def Info: ./../pix//4.jpg  used on input line 79.
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./../../pix//1.jpg> <./../../pix//2.jpg>]
+<./../../pix//4.jpg, id=19, 96.96225pt x 48.18pt>
+File: ./../../pix//4.jpg Graphic file (type jpg)
+<use ./../../pix//4.jpg>
+Package pdftex.def Info: ./../../pix//4.jpg  used on input line 79.
 (pdftex.def)             Requested size: 170.71652pt x 84.83524pt.
-<./../pix//5.jpg, id=20, 96.96225pt x 87.32625pt>
-File: ./../pix//5.jpg Graphic file (type jpg)
-<use ./../pix//5.jpg>
-Package pdftex.def Info: ./../pix//5.jpg  used on input line 90.
+<./../../pix//5.jpg, id=20, 96.96225pt x 87.32625pt>
+File: ./../../pix//5.jpg Graphic file (type jpg)
+<use ./../../pix//5.jpg>
+Package pdftex.def Info: ./../../pix//5.jpg  used on input line 90.
 (pdftex.def)             Requested size: 85.35826pt x 76.8753pt.
- [2 <./../pix//3.jpg> <./../pix//4.jpg> <./../pix//5.jpg>]
-./1729_tasks.tex:112: Undefined control sequence.
-l.112 \Section
-              {Part III: Universal Quantum Computing}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[3] (./1729_tasks.aux) ) 
+ [2 <./../../pix//3.jpg> <./../../pix//4.jpg> <./../../pix//5.jpg>] [3] (./quantum_computer_1729.aux) ) 
 Here is how much of TeX's memory you used:
  3140 strings out of 479917
- 42481 string characters out of 5882713
- 329009 words of memory out of 5000000
+ 42669 string characters out of 5882713
+ 329003 words of memory out of 5000000
  19694 multiletter control sequences out of 15000+600000
  543465 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,66p,215b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,66p,229b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 1729_tasks.pdf (3 pages, 149958 bytes).
+Output written on quantum_computer_1729.pdf (3 pages, 146882 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
